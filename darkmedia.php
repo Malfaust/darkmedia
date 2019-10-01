@@ -9,7 +9,7 @@ if(isset($_GET['d'])){
 
     if($d == $pn){
 
-        echo "dGhlbmV3LnR2OjgwMDA=";
+        echo "bGx0di54eXo6ODA=";
 
     }else{
 
